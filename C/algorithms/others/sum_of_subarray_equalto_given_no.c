@@ -1,4 +1,5 @@
-// Sum of contiguous SubArray equal to given number
+// Sum of contiguous SubArray equal to given number - Bruteforce
+
 #include<stdio.h>
 int main()
 {
